@@ -28,6 +28,7 @@ The default method for reducing outliers is by calculating the c-TF-IDF represen
 to the best matching c-TF-IDF representations of non-outlier topics. 
 
 However, there are a number of other strategies one can use, either seperately or in conjunction that are worthwhile to explore:
+
 * Using the topic-document probabilities to assign topics
 * Using the topic-document distributions to assign topics
 * Using c-TF-IDF representations to assign topics
